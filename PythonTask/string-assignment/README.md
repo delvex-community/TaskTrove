@@ -1,4 +1,4 @@
-# Welcome to LNB 
+# Welcome to Delvex Community 
 
 ## THis section is for entire python tasks related to string operations 
 
