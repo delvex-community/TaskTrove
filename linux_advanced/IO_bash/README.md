@@ -53,6 +53,12 @@
 2. make sure this variable is avaiable even after reboot of your machine 
 3. create a permanent alias by the name of get4line which can print only 4th line of cal command ouput 
 4. check total how many alias you can see and store total number in a file alnum.txt in your home directory 
+5. adjust some setting for your user only which can change given things
+ i) your history must be stored in your current homedirectory under the hidden  file 
+ .myhist.txt
+ ii) your PATH variable must include a folder mycommands which must be present in your home directory.
+ iii) your history size must be 3003 
+ iv) all above shell changes must be persistent 
 ```
 
 </details>
