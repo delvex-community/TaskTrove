@@ -3,10 +3,9 @@
 <details>
 <summary>Click to expand the details</summary>
 
-```markdown
+
 ```bash
 # Steps to create and manage a user
-
 1. Create a user named `<yournameu1>` with the following details:
     - Assign any user ID in the range of 2001 to 40001.
     - Set the shell for this user to `/bin/sh`.
@@ -18,5 +17,5 @@
     - Create some files and folders.
     - Ensure this user can store only 20 history entries in a file called `myhist.txt`.
 ```
-```
+
 </details>
